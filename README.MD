@@ -6,10 +6,9 @@ This  is a simple implementation of a platform that tracks sellers, products add
 
 ## Functionalities
 
-- CRUD of clients, sellers, products and deliveries
+- CRUD of clients, sellers, products and deliveries with golang
 - Delivery route and time estimate with Google APIs
 - Translator of pages for user (pt-br, en-us)
-- Backend response translation (pt-br, en-us)
 
 
 ## Steps to run the project
@@ -32,5 +31,5 @@ This  is a simple implementation of a platform that tracks sellers, products add
 
 **Front-end:** React, Typescript, Material UI, Styled Components, Google APi's, Atomic Design
 
-**Back-end:** Node, Express, Sequelize, Typescript, Joi, MVC
+**Back-end:** GO
 
