@@ -1,5 +1,5 @@
 
-# problema_company_challenge
+# problem_company_challenge
 
 This  is a simple implementation of a platform that tracks sellers, products added by sellers, customers, and customer purchases.
 
