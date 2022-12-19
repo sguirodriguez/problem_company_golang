@@ -1,0 +1,8 @@
+[api]
+port = "3333"
+
+[database]
+host = "database-tracking-delivery.cclnmjvj4tsv.us-east-1.rds.amazonaws.com"
+user = "admin_postgress"
+pass = "mesclado123"
+name = "db_tracking_delivery"
